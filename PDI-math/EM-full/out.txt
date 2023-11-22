@@ -1,0 +1,56 @@
+YAmx1 = (1i*(-1/2)).*c2.*ej1.*w0.^(-1).*x.^3.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAmx2 = (1i*(1/4)).*x.^2.*(a2.*ej3.*ej6.*x+(-2).*ej1.*w0.^(-1).*(ej4.*r.*w0+(-2i).*a0.*e0yc.*j0rn0.*r.*wc.*x+a0.*e0yc.*(a2y.*(-j0rn1+j0rn2)+1i.*a2x.*(j0rn1+j0rn2)).*wc.*x.^2+w0.*(ej3+(2i).*(a2y.*e0xc-a2x.*e0yc).*j0rn0.*x+(-2).*ej3.*x.^2)));
+YAmx3 = (1/4).*w0.^(-1).*x.*((-4i).*e0zc.*ej1.*j0rn0.*rn.*wc+(2i).*(c0.*ej1.*(ej3+ej4.*r)+e0zc.*(a0.*ej1.*(-j0rn1+j0rn2).*r+a2.*ej6.*j0rn0.*rn).*wc).*x+((-1i).*a2.*c0.*ej3.*ej6+4.*ej1.*j0rn0.*(-a2y.*c0.*e0xc+a2x.*c0.*e0yc+(2i).*e0zc.*w0+a0.*a2y.*e0zc.*wc)).*x.^2);
+YBmx1 = (1i*(1/2)).*c0.*c2.*ej1.*ej3.*w2.^(-1).*x.^4;
+YBmx2 = 1i.*c0.*c2.*e0zc.*ej1.*j0rn0.*w2.^(-1).*x.^3;
+YBmx3 = (1/4).*w2.^(-1).*x.^2.*((2i).*ej3.*(ej1+ej2.*rn).*w2+((4i).*c2.*e0zc.*ej1.*j0rn0+(-1i).*a0.*ej1.*ej8.*w2+4.*a2y.*ej3.*j2r0.*rn.*wc).*x+2.*ej1.*ej3.*((-2i).*w2-a0.*a2y.*wc).*x.^2);
+YBmx4 = (1i*(1/4)).*w2.^(-1).*x.*(4.*e0zc.*ej2.*j0rn0.*rn.*w2+(-2).*(c2.*ej3.*(ej1+ej2.*rn)+a0.*e0zc.*ej1.*(-j0rn1+j0rn2).*w2+(4i).*a2y.*e0zc.*j0rn0.*j2r0.*rn.*wc).*x+ej1.*(a0.*c2.*ej8+(-8).*e0zc.*j0rn0.*w2+(4i).*a0.*a2y.*e0zc.*j0rn0.*wc).*x.^2);
+YBmx5 = (1i*(-1/2)).*c2.*e0zc.*w2.^(-1).*x.*(2.*ej2.*j0rn0.*rn+a0.*ej1.*(j0rn1-j0rn2).*x);
+
+YAmy1 = (-1/2).*c2.*ej2.*w0.^(-1).*x.^3.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAmy2 = (1/4).*w0.^(-1).*x.^2.*(a2.*ej3.*ej5.*w0.*x+(-2).*ej2.*(ej4.*r.*w0+(-2i).*a0.*e0yc.*j0rn0.*r.*wc.*x+a0.*e0yc.*(a2y.*(-j0rn1+j0rn2)+1i.*a2x.*(j0rn1+j0rn2)).*wc.*x.^2+w0.*(ej3+(2i).*(a2y.*e0xc-a2x.*e0yc).*j0rn0.*x+(-2).*ej3.*x.^2)));
+YAmy3 = (1/4).*w0.^(-1).*x.*((-4).*e0zc.*ej2.*j0rn0.*rn.*wc+2.*(c0.*ej2.*(ej3+ej4.*r)+e0zc.*(a0.*ej2.*(-j0rn1+j0rn2).*r+a2.*ej5.*j0rn0.*rn).*wc).*x-(a2.*c0.*ej3.*ej5+(4i).*ej2.*j0rn0.*(-a2y.*c0.*e0xc+a2x.*c0.*e0yc+(2i).*e0zc.*w0+a0.*a2y.*e0zc.*wc)).*x.^2);
+YBmy1 = (1/2).*c0.*c2.*ej2.*ej3.*w2.^(-1).*x.^4;
+YBmy2 = c0.*c2.*e0zc.*ej2.*j0rn0.*w2.^(-1).*x.^3;
+YBmy3 = (1/4).*w2.^(-1).*x.^2.*(ej2.*(4.*c2.*e0zc.*j0rn0-a0.*ej8.*w2).*x+(-4).*ej3.*j2r0.*(a0.*w2+a2x.*rn.*wc).*x+ej2.*ej3.*w2.*(2+(-4).*x.^2)+2.*ej1.*ej3.*(rn.*w2+a0.*a2x.*wc.*x.^2));
+YBmy4 = (1/4).*w2.^(-1).*x.*(4.*e0zc.*ej1.*j0rn0.*rn.*w2+(-2).*(c2.*ej3.*(ej2+ej1.*rn)+a0.*e0zc.*(ej2.*(-j0rn1+j0rn2)+4.*j0rn0.*j2r0).*w2+4.*a2x.*e0zc.*j0rn0.*j2r0.*rn.*wc).*x+((-8).*e0zc.*ej2.*j0rn0.*w2+a0.*(c2.*ej2.*ej8+4.*c2.*ej3.*j2r0+4.*a2x.*e0zc.*ej1.*j0rn0.*wc)).*x.^2);
+YBmy5 = (1/2).*c2.*e0zc.*w2.^(-1).*x.*((-2).*ej1.*j0rn0.*rn+a0.*(ej2.*(-j0rn1+j0rn2)+4.*j0rn0.*j2r0).*x);
+
+YAmz1 = (-1i).*c2.*j2r0.*w0.^(-1).*x.^2.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAmz2 = (-1i).*j2r0.*w0.^(-1).*x.^2.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAmz3 = (1/2).*w0.^(-1).*x.*((-2i).*ej4.*j2r0.*r.*w0+x.*((-4).*a0.*e0yc.*j0rn0.*j2r0.*r.*wc+2.*a0.*e0yc.*(1i.*a2y.*(j0rn1-j0rn2)+a2x.*(j0rn1+j0rn2)).*j2r0.*wc.*x+w0.*(4.*a2y.*e0xc.*j0rn0.*j2r0+(-4).*a2x.*e0yc.*j0rn0.*j2r0+(-1i).*a2.*ej3.*(j2r1-j2r2)+(4i).*ej3.*j2r0.*x)));
+YAmz4 = (1/2).*w0.^(-1).*x.*((2i).*(c0.*ej4.*j2r0.*r+e0zc.*(a0.*(-j0rn1+j0rn2).*j2r0.*r+a2.*j0rn0.*(-j2r1+j2r2).*rn).*wc)+(4.*a2x.*c0.*e0yc.*j0rn0.*j2r0+1i.*(a2.*c0.*ej3.*(j2r1-j2r2)+8.*e0zc.*j0rn0.*j2r0.*w0)+4.*a2y.*j0rn0.*j2r0.*(-c0.*e0xc+a0.*e0zc.*wc)).*x);
+YBmz1 = 1i.*c0.*ej3.*j2r0.*w2.^(-1).*(w2-r.*wc).*x.^3;
+YBmz2 = (2i).*c0.*e0zc.*j0rn0.*j2r0.*w2.^(-1).*(w2-r.*wc).*x.^2;
+YBmz3 = (2i).*e0zc.*j0rn0.*j2r0.*w2.^(-1).*(w2-r.*wc).*x.^2;
+YBmz4 = (1i*(-1/2)).*w2.^(-1).*x.*(a0.*ej8.*j2r0.*r.*wc.*x+a2.*ej3.*(-j2r1+j2r2).*rn.*wc.*x+(-2).*ej3.*j2r0.*(r.*wc+((-2).*w2+1i.*a0.*a2y.*wc).*x.^2));
+YBmz5 = 1i.*e0zc.*w2.^(-1).*x.*(a2.*j0rn0.*(j2r1-j2r2).*rn.*wc+(-4).*j0rn0.*j2r0.*w2.*x+a0.*j2r0.*wc.*(j0rn1.*r-j0rn2.*r+(2i).*a2y.*j0rn0.*x));
+
+YAzx1 = (1i*(-1/2)).*c2.*ej1.*w0.^(-1).*x.^2.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAzx2 = (1i*(1/4)).*x.*(a2.*ej3.*ej6.*x+(-2).*ej1.*w0.^(-1).*(ej4.*r.*w0+(-2i).*a0.*e0yc.*j0rn0.*r.*wc.*x+a0.*e0yc.*(a2y.*(-j0rn1+j0rn2)+1i.*a2x.*(j0rn1+j0rn2)).*wc.*x.^2+w0.*(ej3+(2i).*(a2y.*e0xc-a2x.*e0yc).*j0rn0.*x+(-2).*ej3.*x.^2)));
+YAzx3 = (1/4).*w0.^(-1).*((-4i).*e0zc.*ej1.*j0rn0.*rn.*wc+(2i).*(c0.*ej1.*(ej3+ej4.*r)+e0zc.*(a0.*ej1.*(-j0rn1+j0rn2).*r+a2.*ej6.*j0rn0.*rn).*wc).*x+((-1i).*a2.*c0.*ej3.*ej6+4.*ej1.*j0rn0.*(-a2y.*c0.*e0xc+a2x.*c0.*e0yc+(2i).*e0zc.*w0+a0.*a2y.*e0zc.*wc)).*x.^2);
+YBzx1 = (1i*(1/2)).*c0.*c2.*ej1.*ej3.*w2.^(-1).*x.^3;
+YBzx2 = 1i.*c0.*c2.*e0zc.*ej1.*j0rn0.*w2.^(-1).*x.^2;
+YBzx3 = (1/4).*w2.^(-1).*x.*((2i).*ej3.*(ej1+ej2.*rn).*w2+((4i).*c2.*e0zc.*ej1.*j0rn0+(-1i).*a0.*ej1.*ej8.*w2+4.*a2y.*ej3.*j2r0.*rn.*wc).*x+2.*ej1.*ej3.*((-2i).*w2-a0.*a2y.*wc).*x.^2);
+YBzx4 = (1i*(1/4)).*w2.^(-1).*(4.*e0zc.*ej2.*j0rn0.*rn.*w2+(-2).*(c2.*ej3.*(ej1+ej2.*rn)+a0.*e0zc.*ej1.*(-j0rn1+j0rn2).*w2+(4i).*a2y.*e0zc.*j0rn0.*j2r0.*rn.*wc).*x+ej1.*(a0.*c2.*ej8+(-8).*e0zc.*j0rn0.*w2+(4i).*a0.*a2y.*e0zc.*j0rn0.*wc).*x.^2);
+YBzx5 = (1i*(-1/2)).*c2.*e0zc.*w2.^(-1).*(2.*ej2.*j0rn0.*rn+a0.*ej1.*(j0rn1-j0rn2).*x);
+
+YAzy1 = (-1/2).*c2.*ej2.*w0.^(-1).*x.^2.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAzy2 = (1/4).*w0.^(-1).*x.*(a2.*ej3.*ej5.*w0.*x+(-2).*ej2.*(ej4.*r.*w0+(-2i).*a0.*e0yc.*j0rn0.*r.*wc.*x+a0.*e0yc.*(a2y.*(-j0rn1+j0rn2)+1i.*a2x.*(j0rn1+j0rn2)).*wc.*x.^2+w0.*(ej3+(2i).*(a2y.*e0xc-a2x.*e0yc).*j0rn0.*x+(-2).*ej3.*x.^2)));
+YAzy3 = (-1/4).*w0.^(-1).*(4.*e0zc.*ej2.*j0rn0.*rn.*wc+(-2).*(c0.*ej2.*(ej3+ej4.*r)+e0zc.*(a0.*ej2.*(-j0rn1+j0rn2).*r+a2.*ej5.*j0rn0.*rn).*wc).*x+(a2.*c0.*ej3.*ej5+(4i).*ej2.*j0rn0.*(-a2y.*c0.*e0xc+a2x.*c0.*e0yc+(2i).*e0zc.*w0+a0.*a2y.*e0zc.*wc)).*x.^2);
+YBzy1 = (1/2).*c0.*c2.*ej2.*ej3.*w2.^(-1).*x.^3;
+YBzy2 = c0.*c2.*e0zc.*ej2.*j0rn0.*w2.^(-1).*x.^2;
+YBzy3 = (1/4).*w2.^(-1).*x.*(ej2.*(4.*c2.*e0zc.*j0rn0-a0.*ej8.*w2).*x+(-4).*ej3.*j2r0.*(a0.*w2+a2x.*rn.*wc).*x+ej2.*ej3.*w2.*(2+(-4).*x.^2)+2.*ej1.*ej3.*(rn.*w2+a0.*a2x.*wc.*x.^2));
+YBzy4 = (1/4).*w2.^(-1).*(4.*e0zc.*ej1.*j0rn0.*rn.*w2+(-2).*(c2.*ej3.*(ej2+ej1.*rn)+a0.*e0zc.*(ej2.*(-j0rn1+j0rn2)+4.*j0rn0.*j2r0).*w2+4.*a2x.*e0zc.*j0rn0.*j2r0.*rn.*wc).*x+((-8).*e0zc.*ej2.*j0rn0.*w2+a0.*(c2.*ej2.*ej8+4.*c2.*ej3.*j2r0+4.*a2x.*e0zc.*ej1.*j0rn0.*wc)).*x.^2);
+YBzy5 = (1/2).*c2.*e0zc.*w2.^(-1).*((-2).*ej1.*j0rn0.*rn+a0.*(ej2.*(-j0rn1+j0rn2)+4.*j0rn0.*j2r0).*x);
+
+YAzz1 = (-1i).*c2.*j2r0.*w0.^(-1).*x.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAzz2 = (-1i).*j2r0.*w0.^(-1).*x.*(2.*e0zc.*j0rn0.*(w0-rn.*wc)+c0.*ej3.*x);
+YAzz3 = (-1i).*ej4.*j2r0.*r+(1/2).*w0.^(-1).*x.*((-4).*a0.*e0yc.*j0rn0.*j2r0.*r.*wc+2.*a0.*e0yc.*(1i.*a2y.*(j0rn1-j0rn2)+a2x.*(j0rn1+j0rn2)).*j2r0.*wc.*x+w0.*(4.*a2y.*e0xc.*j0rn0.*j2r0+(-4).*a2x.*e0yc.*j0rn0.*j2r0+(-1i).*a2.*ej3.*(j2r1-j2r2)+(4i).*ej3.*j2r0.*x));
+YAzz4 = (1/2).*w0.^(-1).*((2i).*(c0.*ej4.*j2r0.*r+e0zc.*(a0.*(-j0rn1+j0rn2).*j2r0.*r+a2.*j0rn0.*(-j2r1+j2r2).*rn).*wc)+(4.*a2x.*c0.*e0yc.*j0rn0.*j2r0+1i.*(a2.*c0.*ej3.*(j2r1-j2r2)+8.*e0zc.*j0rn0.*j2r0.*w0)+4.*a2y.*j0rn0.*j2r0.*(-c0.*e0xc+a0.*e0zc.*wc)).*x);
+YBzz1 = 1i.*c0.*ej3.*j2r0.*w2.^(-1).*(w2-r.*wc).*x.^2;
+YBzz2 = (2i).*c0.*e0zc.*j0rn0.*j2r0.*w2.^(-1).*(w2-r.*wc).*x;
+YBzz3 = (2i).*e0zc.*j0rn0.*j2r0.*w2.^(-1).*(w2-r.*wc).*x;
+YBzz4 = (1i*(1/2)).*w2.^(-1).*(-a0.*ej8.*j2r0.*r.*wc.*x+a2.*ej3.*(j2r1-j2r2).*rn.*wc.*x+2.*ej3.*j2r0.*(r.*wc+((-2).*w2+1i.*a0.*a2y.*wc).*x.^2));
+YBzz5 = 1i.*e0zc.*w2.^(-1).*(a2.*j0rn0.*(j2r1-j2r2).*rn.*wc+(-4).*j0rn0.*j2r0.*w2.*x+a0.*j2r0.*wc.*(j0rn1.*r-j0rn2.*r+(2i).*a2y.*j0rn0.*x));
+

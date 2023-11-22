@@ -1,0 +1,10 @@
+推导表达式和化简的mathematica代码
+
+运行流程：（以QL1为例）
+1. dt.wls
+2. QL1.wls
+3. QL1-s.wls
+4. ToMatlab.m
+5. QL1-outA.wls
+6. QL1-outB.wls
+7. auto-out.wls

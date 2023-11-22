@@ -1,0 +1,4 @@
+第一列 nsz 扫描参数
+第二列 gamma最大对应的nsp
+第三列 gamma最大对应的wr
+第四列 当前nsz的最大gamma

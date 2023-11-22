@@ -1,0 +1,19 @@
+各文件的简单说明
+UHW：参数设置
+solve：二维扫描找解
+sfind：单点求精确解，求解器为patternsearch，求解函数为fw
+sfind_par：简单并行计算，搭配fw_par
+fw：返回非线性色散矩阵行列式的条件数（cond number）
+PIM3/PIM4：色散矩阵
+pplt：找线性色散关系的解
+
+scan_1D：一维波矢扫描
+scan_2D：二维波矢扫描
+scan_peak：找最大增长率
+
+缩写说明
+0泵浦，s低频，1下边频，2上边频
+L：线性项
+QL：准线性项
+NL：非线性项
+后缀 _par，并行计算加速，用于非线性项
